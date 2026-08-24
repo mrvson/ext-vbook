@@ -85,7 +85,7 @@
             "icon": "https://raw.githubusercontent.com/mrvson/ext-vbook/main/extensions/vsmov/icon.png",
             "description": "Xem phim từ VSMOV.COM - Nguồn API Phim Miễn Phí",
             "type": "video",
-            "locale": "vi_VN",
+            "locale": "vi_VN"
         },		
 
         {
@@ -123,7 +123,7 @@
             "icon": "https://raw.githubusercontent.com/mrvson/ext-vbook/main/extensions/zettruyen/icon.png",
             "description": "Đọc truyện manga từ zettruyen",
             "type": "comic",
-            "locale": "vi_VN",
+            "locale": "vi_VN"
         }
 
     ]
